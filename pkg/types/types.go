@@ -45,4 +45,4 @@ type PaymentSource struct {
 	Balance Money  // баланс в дирамах
 }
 
-//rr
+//rrsdsd
